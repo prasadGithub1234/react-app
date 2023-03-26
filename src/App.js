@@ -9,6 +9,9 @@ function App() {
         <p>
           This is new feature-branch
         </p>
+        <p>
+          commit 2
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
